@@ -1,6 +1,6 @@
 # Chromium offline bundle
 
-Files are split into 90MB parts for GitHub transport stability.
+The tarball is split into 20MB parts for transport stability.
 
 Reassemble:
 
